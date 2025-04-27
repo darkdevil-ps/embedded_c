@@ -1,2 +1,5 @@
 # embedded_c
-learning embeddedc
+learning embedded C Programming
+
+<br>
+Author - Prachet Saul
